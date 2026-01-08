@@ -23,3 +23,10 @@ The performance of the recommendation system is evaluated using an evaluation me
 
 This project showcases the practical implementation of recommendation systems using Python and demonstrates how collaborative filtering techniques can be applied to solve real-world problems.
 
+<img width="1920" height="400" alt="Image" src="https://github.com/user-attachments/assets/1403a288-d7b6-4e08-8f19-5428b067523d" />
+
+
+<img width="1920" height="191" alt="Image" src="https://github.com/user-attachments/assets/be81f916-b33f-4e82-8c0f-8d76d6c019ab" />
+
+
+<img width="1872" height="266" alt="Image" src="https://github.com/user-attachments/assets/9c1f73d5-13f3-4c28-8f55-ba6dfb9e79c3" />
